@@ -1,0 +1,2 @@
+# redisMigrate
+基于多进程的redis迁移脚本，可以根据数据键值key的路由规则从一个redis实例迁移到另一个redis实例或pika
